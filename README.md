@@ -1,5 +1,5 @@
 # Fundamentos 3 ヾ(⌐■_■)ノ♪
-"un espacio para generar nuevos y fascinantes conceptos y transformarlos en productos y experiencias funcionales de calidad (...)“escenografías interactivas” (...) diseñar y construir relaciones con el espacio, los objetos y el cuerpo utilizando tecnologías interactivas."
+_"un espacio para generar nuevos y fascinantes conceptos y transformarlos en productos y experiencias funcionales de calidad (...)'escenografías interactivas' (...) diseñar y construir relaciones con el espacio, los objetos y el cuerpo utilizando tecnologías interactivas."_
 ____
 
 ____
