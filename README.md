@@ -2,12 +2,6 @@
 "un espacio para generar nuevos y fascinantes conceptos y transformarlos en productos y experiencias funcionales de calidad (...)“escenografías interactivas” (...) diseñar y construir relaciones con el espacio, los objetos y el cuerpo utilizando tecnologías interactivas."
 ____
 
-### Referentes: 
-<br>
-[Bēhance](https://www.behance.net/gallery/139767203/Pum-Peleas-de-almohadas-para-ser-feliz-%29) 
-
-
-
 ____
 
 #### Referencias:  <br>
