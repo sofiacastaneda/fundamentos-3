@@ -9,7 +9,7 @@ Primer ejercicio de control de leds en simultáneo. Hice dos semáforos, la idea
 
 #### Código
 
-Existe una [aproximación fácil] que hice en mi primer sketch, (https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/secuencia_simple_semaforo_doble.ino), en la cual se secuencia cada uno de los leds utilizando un delay para manejar los intervalos. 
+Existe una [aproximación fácil](https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/secuencia_simple_semaforo_doble.ino) que hice en mi primer sketch, , en la cual se secuencia cada uno de los leds utilizando un delay para manejar los intervalos. 
 
 ```C++
 void loop() {
