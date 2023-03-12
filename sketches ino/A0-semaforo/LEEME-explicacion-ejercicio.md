@@ -6,6 +6,9 @@ Primer ejercicio de control de leds en simultáneo. Hice dos semáforos, la idea
 
 ![Setup del arduino](https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/setup-semaforo.png)
 
+Demo en Tinkercad 1: [https://www.tinkercad.com/things/29kWNGAkPyZ](https://www.tinkercad.com/things/29kWNGAkPyZ)
+Demo en Tinkercad 2: [https://www.tinkercad.com/things/0Ve5gqIvaW1](https://www.tinkercad.com/things/0Ve5gqIvaW1)
+
 
 #### Código
 
