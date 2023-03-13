@@ -38,7 +38,12 @@ void loop() {
 
 Funciona, pero si tuviera que hacer 10 semáforos sería caos. Además los delays hacen lento mi código. La segunda alternativa utiliza condicionales para determinar el comportamiento de cada uno de los semáforos, y en vez de utilizar delays utiliza la función `milis()`. Esta fue difícil de implementar. Todavía hay algo que no funciona pero no sé muy bien qué es. 
 
-#### Intento 1 (https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/semaforo-ii-condicionales.ino)
+Para resolverlo escribí este pedacito de pseudocódigo:
+![pseudocódigo](https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/pseudocodigo.jpeg)
+
+_Nota: Hacer click en los intentos para acceder al archivo completo, por cuestiones de claridad omití algunas secciones del código._
+
+#### [Intento 1](https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/semaforo-ii-condicionales.ino)
 ```C++
 void secuencia_semaforo(){
   
@@ -101,7 +106,7 @@ void loop() {
   
 ```
 
-#### Intento 2 (https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/semaforo-ii-opuestos.ino)
+#### [Intento 2](https://github.com/sofiacastaneda/fundamentos-3/blob/main/sketches%20ino/A0-semaforo/semaforo-ii-opuestos.ino)
 ```C++
 int estadoLed1 = HIGH;
 int estadoLed2 = LOW;
