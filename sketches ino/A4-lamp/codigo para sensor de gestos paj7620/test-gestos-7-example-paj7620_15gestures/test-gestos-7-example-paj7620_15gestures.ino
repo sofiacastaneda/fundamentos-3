@@ -62,14 +62,14 @@ void loop()
 {
 	uint8_t data = 0, data1 = 0, error; 
 
-	error = paj7620ReadReg(0x43, 1, &data);				// Read Bank_0_Reg_0x43/0x44 for gesture result.
+	error = paj7620ReadReg(0x73, 1, &data);				// Read Bank_0_Reg_0x43/0x44 for gesture result.
 	if (!error) 
 	{
 		switch (data) 									// When different gestures be detected, the variable 'data' will be set to different values by paj7620ReadReg(0x43, 1, &data).
 		{
 			case GES_RIGHT_FLAG:
 				delay(GES_REACTION_TIME);
-				paj7620ReadReg(0x43, 1, &data);
+				paj7620ReadReg(0x73, 1, &data);
 				if(data == GES_LEFT_FLAG) 
 				{
 					Serial.println("Right-Left");
